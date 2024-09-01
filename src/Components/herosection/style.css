@@ -1,0 +1,17 @@
+.herotextpara {
+
+
+    display: inline-block !important;
+    max-width: 430px !important;
+    color: #d3d3d3;
+}
+
+.herobtnpara {
+    color: white !important;
+    padding: 5px 15px 8px;
+    background: linear-gradient(to bottom, #AD8749, #DCBB75) !important;
+    /* margin-top: 40px !important; */
+    border-radius: 10px;
+    text-align: center;
+    border: none;
+}

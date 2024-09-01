@@ -1,0 +1,122 @@
+.login-btn{
+    background: linear-gradient(to bottom, #AD8749, #DCBB75);
+    /* box-shadow: 0px 4px 10px rgba(173, 135, 73, 0.7); */
+     padding: 8px 31px;
+    border-radius: 12px;
+}
+
+/* .nav-item.dropdown {
+    margin-left: auto;
+  } */
+  .image-icon{
+
+    height: 21px;
+}
+  
+.fa-bars:before, .fa-navicon:before {
+  content: "\f0c9";
+  color: #d1af6b;
+}
+
+
+
+
+.fa-close:before, .fa-multiply:before, .fa-remove:before, .fa-times:before, .fa-xmark:before {
+  content: "\f00d";
+  color: #d1af6b;
+  width: 17px;
+  font-size: xx-large;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 991px) {
+  div#navbarSupportedContent {
+      background-color: #fff;
+      border: 2px solid #6100a8;
+      border-top: 0 solid #6100a8;
+      left: 0;
+      min-height: 26rem;
+      padding: 15px;
+      position: absolute;
+      top: 100%;
+      width: 100%;
+      z-index: 999;
+  }
+}
+
+
+
+.dropdown_menu_divider {
+background-color: #fff;
+    height: 1px;
+    margin: 10px 0;
+    opacity: 32%;
+}
+
+/* .navbar-nav {
+  background: linear-gradient(to right, #283606, #0F1500) !important;
+  background-position: 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+ 
+  left: -133px !important;
+  padding: 21px;
+  top: 7px !important;
+  width: 439px !important;
+  position: relative;  
+  z-index: 9999;  
+} */
+
+.responsiveheader{
+  display: flex; /* Aligns items in a row */
+  justify-content: space-between; /* Adds space between the items */
+  align-items: center; /* Vertically centers items */
+  width: 100%; /* Ensures it takes the full width of the container */
+
+}
+
+.responsivenavbar-nav {
+  background: linear-gradient(to right, #283606, #0F1500) !important;
+  background-position: 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+   padding: 21px;
+  top: -9px !important;
+ 
+  position: relative;
+  z-index: 9999;
+  position: absolute;
+  list-style-type: none;
+  width: 100%;
+}
+
+a:hover {
+  color: white;
+  text-decoration: underline;
+}
+.new_main-navbar-list {
+  color: white;
+  font-family: Jost;
+  font-size: 16.29px;
+  font-weight: 500;
+  line-height: 27.67px;
+  text-align: left;
+}
+
+
+.filter_accordian button, a {
+  text-decoration: none !important;
+}

@@ -1,0 +1,51 @@
+.general-access{
+ 
+       border-radius: 10px;
+       box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+       color: #fff;
+       margin: auto;
+       overflow: hidden;
+       max-width: 904px !important;
+       display: flex;
+       align-items: center;
+       padding: 23px 46px;
+ 
+       background: rgb(19 26 1 / 19%);
+       backdrop-filter: brightness(0.5);
+       flex-wrap: wrap !important
+}
+.possibilities-para{
+ 
+       max-width: 545px;
+       color: #a4a498;
+}
+
+.endlesspara {
+       display: inline-block;
+       max-width: 636px;
+       color: #ffe0e0;
+          }
+   
+
+.buildStore_sec_title {
+       text-align: center;
+       max-width: 1000px;
+       margin: 0 auto;
+       padding: 51px 0px;
+     }
+.possarrow{
+       justify-content: end;
+       display: flex;
+       margin-left: auto;
+}
+
+
+.poss-title{
+       font-family: "Tinos", serif;
+       font-size: x-large;
+}
+
+.poss-subtitle{
+       color: #a4a498;
+       font-size: small;
+}

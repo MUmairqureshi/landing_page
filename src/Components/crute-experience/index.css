@@ -1,0 +1,53 @@
+.crutepara {
+    color: white !important;
+    padding: 10px 15px;
+    background: linear-gradient(to bottom, #AD8749, #DCBB75) !important;
+    margin-top: 40px !important;
+    border-radius: 10px;
+    text-align: center;
+    display: inline-flex;  
+    align-items: center;  
+    justify-content: center; 
+    gap: 8px;  
+    border: none;  
+    cursor: pointer;  
+}
+
+.crutearrow {
+    max-width: 16px;
+    height: auto; 
+    vertical-align: middle;  
+    display: inline; 
+    margin-left: 19px;
+    display: inline;
+    justify-content: center;
+    top: 12px;
+    margin-top: 7px;
+}
+
+.crutetitle{
+    font-family: "Tinos", serif;
+    color: white;
+    display: block;
+     font-size: xxx-large;
+}
+
+
+
+ 
+
+
+ .special-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 20px;
+}
+
+#paras{
+    text-align: center;
+}
+
+ 

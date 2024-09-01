@@ -1,0 +1,53 @@
+.mapimg{top: 1036px;
+    left: 231px;
+    max-width: 614px;
+ 
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    width: revert-layer;
+    margin: auto;
+    margin-top: 41px !important;}
+
+
+    .place-title{
+        
+        font-family: "Tinos", serif!important;
+    color: white!important;
+    font-size: xxx-large!important;
+    }
+    
+
+    .youplace-para{
+        max-width: 315px;
+        color: #ffe2e2;
+        font-size: 20px !important;
+    }
+    .maparrow{
+        background-color: #526722;
+        padding: 12px 29px;
+        border-radius: 12px;
+          gap: 27px !important;
+          background: linear-gradient(to bottom, #657d2b, #a7be6d) !important;
+        padding: 12px 29px;
+        border-radius: 12px;
+ 
+        display: inline-flex;
+        align-items: center;
+        gap: 5px;
+        color:white
+    }
+    .maparrowimg{
+        width: 16px; 
+    }
+
+
+    @media (max-width: 1024px) {
+        .place-title {
+            text-align: justify !important;
+        }
+    }
+
+    .techVerse_about{
+          border-bottom: 2px solid #d2c3c330; 
+    }
