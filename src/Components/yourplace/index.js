@@ -8,7 +8,7 @@ const Yourplace = (props) => {
         <div>
 
             <section
-                class={`techVerse_about techVerse_aboutServices2 ${props?.newClass}`}
+             id="yourplacemap"    class={`techVerse_about techVerse_aboutServices2 ${props?.newClass}`}
             >
                 <div className="inner_hover">
 
